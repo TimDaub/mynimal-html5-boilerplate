@@ -21,6 +21,14 @@ The μnimal-html5-boilerplate!
 </html>
 ```
 
+## Useful tags
+
+### Scaling the Document's Viewport according to the Device's width
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+```
+
 ## License
 
 MIT
