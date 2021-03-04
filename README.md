@@ -29,6 +29,26 @@ The μnimal-html5-boilerplate!
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 ```
 
+### Using an inline ´<script>` tag
+
+```html
+<script type="text/javascript">
+  console.log("hello world");
+</script>
+```
+
+### Using a `<script>` tag to link a JS file
+
+```html
+<script src="javascript.js"></script>
+```
+
+### Linking to a css style sheet
+
+```html
+<link rel="stylesheet" href="styles.css">
+```
+
 ## License
 
 MIT
