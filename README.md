@@ -23,13 +23,13 @@ The μnimal-html5-boilerplate!
 
 ## Useful tags
 
-### Scaling the Document's Viewport according to the Device's width
+### Scaling the document's viewport according to the device's width
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 ```
 
-### Using an inline ´<script>` tag
+### Using an inline `<script>` tag
 
 ```html
 <script type="text/javascript">
